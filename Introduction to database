@@ -1,0 +1,24 @@
+# Here I will write what I learned from Vidoes
+<<<<<<<<<<<<<<<<<<<<< What is DataBase? >>>>>>>>>>>>>>>>
+- A Structerd collection of data stored in a computer system.
+ allows user to : 
+> Store information systematically
+> Retrieve and manipulate data 
+> Manage data efficientl.
+<<<<<<<<<<< Features >>>>>>>>>>
+Data Storage: Storage amount of data systematically.
+Data Retrival: Retrieve specific data quickly through qruiries 
+Data Managment : Insert, update and delete data efficiently
+Scalability : Handle frowth in data colume over data 
+<<<<<<<<<<<<<< Example of database >>>>>>>>>>>>>
+E- commerce : Storing product catalogs, customer data and sales records 
+Social Media: Storing user profiles, posts, and interactions.
+<<<<<<<<<<<<<<<<<<<<<<<<< Why Use a Database >>>>>>>>>>>>>
+1- Efficiency" Access database faster compared to manual method 
+2- Organization: Ensure structured data storage, reducing redundancy. 
+3- Scalability: Accommodate growing amounts of data seamlessly.
+4- Security: Protect sensitive data with user roles and encryption.
+5- Collaboration: Enable multiple users to access and work on data simultaneously.
+Types of Databases
+Relational Databases (RDBMS): Data stored in tables (e.g., MySQL, PostgreSQL).
+NoSQL Databases: Non-tabular databases for unstructured or semi-structured data (e.g., MongoDB, Cassandra).
